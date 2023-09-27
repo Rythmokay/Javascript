@@ -1,1 +1,1 @@
-console.log("Rythm");    
+console.log("Rythm"); 
