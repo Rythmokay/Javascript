@@ -23,4 +23,5 @@ let myobj={
 const myfunction=function(){
     console.log("Helo world ");
 }
+//
 console.log(typeof outsideTemp);
