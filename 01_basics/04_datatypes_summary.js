@@ -25,3 +25,9 @@ const myfunction=function(){
 }
 //
 console.log(typeof outsideTemp);
+//stack memory (Primitive ) , Heap(non primitive )
+let myYOutubename="RythmOkay";
+let anotherName=myYOutubename;
+anotherName="chaiorcode";
+console.log(anotherName);
+console.log(myYOutubename);
